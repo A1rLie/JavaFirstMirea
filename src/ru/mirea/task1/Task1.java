@@ -100,7 +100,6 @@ public class Task1 {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Введите размер массива >> ");
         int[] array = new int[scanner.nextInt()];
-
         while (true){
             System.out.print("1. Сумма элементов массива\n" +
                     "2. Аргументы командной строки\n" +
