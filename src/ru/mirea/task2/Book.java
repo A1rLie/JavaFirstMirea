@@ -1,5 +1,6 @@
 package ru.mirea.task2;
 
+
 public class Book {
     private int pages;
     private String bookTitle;
