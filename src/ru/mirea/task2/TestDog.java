@@ -12,8 +12,8 @@ public class TestDog {
         return dogs.get(index);
     }
 
+
     public static void main(String[] args) {
         var dogs = new ArrayList<Dog>();
-
     }
 }

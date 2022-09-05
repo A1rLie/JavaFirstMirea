@@ -1,5 +1,4 @@
 package ru.mirea.task2;
-
 public class Ball {
     private int volume;
     private String color;
