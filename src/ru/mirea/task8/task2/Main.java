@@ -6,7 +6,7 @@ public class Main extends JFrame {
     Main(String s)
     {
         super("Task");
-        setSize(400,500);
+        setSize(400,400);
         JLabel jLabel = new JLabel();
         ImageIcon imageIcon = new ImageIcon(s);
         jLabel.setIcon(imageIcon);
